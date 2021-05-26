@@ -1,10 +1,11 @@
 # Contrive
-Contrive is a simple utility to automate creation of directory and file structures.
+Contrive is a simple utility to automate creation of directory and file structures written in Rust.
 It has basic functionalities like creation of directories and files with content in them.
 You can use static names or create dynamic ones with {{your_variable_name}} syntax.
 
 ## Installation
 cargo install contrive
+If you don't have rust installed: https://www.rust-lang.org/tools/install
 
 ## Example usage
 contrive help
