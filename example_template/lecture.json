@@ -1,0 +1,25 @@
+{
+	"Directory":{
+		"name":"{{topic}}",
+		"contents":[
+			{
+				"File":{
+					"name":"Notes{{date}}.md",
+					"contents":"#{{topic}}_{{date}}\n\t##Excercises:\n\n\tIdk something that seems useful:"
+				}
+			},
+			{
+				"Directory":{
+					"name":"Resources",
+					"contents":[]
+				}
+			},
+			{
+				"Directory":{
+					"name":"things",
+					"contents":[]
+				}
+			}
+		]
+	}	
+}
